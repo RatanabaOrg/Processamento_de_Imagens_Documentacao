@@ -5,7 +5,13 @@
 <h3> Aplicação mobile para registro e quantificação de pragas em campos agrícolas </h3>
 
 <p>
-    <a href="#sobre">Sobre</a> | <a href="#backlog">Backlogs</a> | <a href="#manuais">Manuais</a> | <a href="#modelo">Diagrama</a> | <a href="#equipe">Equipe</a>
+    <a href="#sobre">Sobre</a> | 
+    <a href="#repositorios">Repositórios</a> | 
+    <a href="#entrega">Entregas de Sprints</a> |
+    <a href="#backlog">Backlog</a> | 
+    <a href="#manuais">Manuais</a> | 
+    <a href="#modelo">Diagrama</a> | 
+    <a href="#equipe">Equipe</a>
 </p>
 
 <br>
@@ -34,8 +40,30 @@
 
 Confira a idealização inicial do projeto:
 
- - Mockup: clique em [link]([https://www.figma.com/file/Z8cq5p8fAsvwqpAnGYiIhp/%F0%9F%90%B6-Ratanaba-%F0%9F%A6%B4?type=design&node-id=0%3A1&mode=design&t=abjt9pcSr3BCzQ38-1](https://www.figma.com/file/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=101-2&mode=design&t=6Q8tlAtnp1GMS03l-0)) e veja através do Figma
- - Protótipo navegável das telas do administrador: [navegue]([https://www.figma.com/proto/Z8cq5p8fAsvwqpAnGYiIhp/%F0%9F%90%B6-Ratanaba-%F0%9F%A6%B4?type=design&node-id=1-138&t=abjt9pcSr3BCzQ38-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A138](https://www.figma.com/proto/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=152-4847&t=dK9D6RtiEPNcLqvm-0&scaling=scale-down&page-id=152%3A2818&starting-point-node-id=152%3A4847&show-proto-sidebar=1)) entre as páginas
+ - Mockup: clique em [link](https://www.figma.com/file/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=101-2&mode=design&t=6Q8tlAtnp1GMS03l-0) e veja através do Figma
+ - Protótipo navegável das telas do administrador: [navegue](https://www.figma.com/proto/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=152-4847&t=dK9D6RtiEPNcLqvm-0&scaling=scale-down&page-id=152%3A2818&starting-point-node-id=152%3A4847&show-proto-sidebar=1) entre as páginas
+
+<br>
+
+<span id="repositorios">
+
+<h2> 🗂 Repositórios </h2>
+
+- Repositório Frontend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/front_end.git)
+
+- Repositório Backend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/front_end.git)
+
+<br>
+
+<span id="entrega">
+
+## 🏁 Entregas de Sprints
+| Sprint |        Previsão         |      Status      |     Relatório     |   Tag   |
+| :----: | :---------------------: | :--------------: | :---------------: | :------:|
+|   01   | 25/03/2024 à 14/04/2024 | Em andamento 🕒 | [Ver](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) 👁️ | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
+|   02   | 15/04/2024 à 05/05/2024 | Não iniciada ❌ | - | - |
+|   03   | 06/05/2024 à 26/05/2024 | Não iniciada ❌ | - | - |
+|   04   | 27/05/2024 à 16/06/2024 | Não iniciada ❌ | - | - |
 
 <br>
 
@@ -45,18 +73,18 @@ Confira a idealização inicial do projeto:
 
  #### Épicos (Requisitos Funcionais) 
 
-| SPRINT | CÓDIGO | DESCRIÇÃO                                                                     |
-| :----: | :----: | :---------------------------------------------------------------------------- |
-|   1    |  RF1   | Interface de cadastro cliente                                                 |
-|   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |
-|   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |
-|   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |
-|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |
-|   3    |  RF6   | Detecção se há pragas nas imagens                                             |
-|   3    |  RF7   | Contagem de pragas em nas imagens                                             |
-|   3    |  RF8   | Mapeamento da ocorrência pragas                                               |
-|   4    |  RF9   | Dashboard de indicadores de registro de pragas em armadilhas de campo         |
-|   4    |  RF6   | Rotina para envio de alertas ao WhatsApp do agricultor                        |
+| SPRINT | CÓDIGO | DESCRIÇÃO                                                                     | STATUS |
+| :----: | :----: | :---------------------------------------------------------------------------- | :----: |
+|   1    |  RF1   | Interface de cadastro cliente                                                 |   ✅  |
+|   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   🕒  |
+|   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   -  |
+|   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   -  |
+|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   -  |
+|   3    |  RF6   | Detecção se há pragas nas imagens                                             |   -  |
+|   3    |  RF7   | Contagem de pragas em nas imagens                                             |   -  |
+|   3    |  RF8   | Mapeamento da ocorrência pragas                                               |   -  |
+|   4    |  RF9   | Dashboard de indicadores de registro de pragas em armadilhas de campo         |   -  |
+|   4    |  RF6   | Rotina para envio de alertas ao WhatsApp do agricultor                        |   -  |
 
 #### Requisitos Não Funcionais  
 
