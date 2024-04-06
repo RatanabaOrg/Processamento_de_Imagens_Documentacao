@@ -40,8 +40,8 @@
 
 Confira a idealização inicial do projeto:
 
- - Mockup: clique em [link](https://www.figma.com/file/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=101-2&mode=design&t=6Q8tlAtnp1GMS03l-0) e veja através do Figma
- - Protótipo navegável das telas do administrador: [navegue](https://www.figma.com/proto/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=152-4847&t=dK9D6RtiEPNcLqvm-0&scaling=scale-down&page-id=152%3A2818&starting-point-node-id=152%3A4847&show-proto-sidebar=1) entre as páginas
+ - Mockup: [clique e veja através no Figma](https://www.figma.com/file/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=101-2&mode=design&t=6Q8tlAtnp1GMS03l-0) 
+ - Protótipo navegável das telas do administrador: [navegue entre as páginas como se estivesse no aplicativo em uso](https://www.figma.com/proto/3lNlsnaBP7DkxzIIA7MGMz/api-5-Visiona?type=design&node-id=152-4847&t=dK9D6RtiEPNcLqvm-0&scaling=scale-down&page-id=152%3A2818&starting-point-node-id=152%3A4847&show-proto-sidebar=1)
 
 <br>
 
@@ -81,10 +81,10 @@ Confira a idealização inicial do projeto:
 |   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   -  |
 |   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   -  |
 |   3    |  RF6   | Detecção se há pragas nas imagens                                             |   -  |
-|   3    |  RF7   | Contagem de pragas em nas imagens                                             |   -  |
+|   3    |  RF7   | Contagem de pragas nas imagens                                                |   -  |
 |   3    |  RF8   | Mapeamento da ocorrência pragas                                               |   -  |
 |   4    |  RF9   | Dashboard de indicadores de registro de pragas em armadilhas de campo         |   -  |
-|   4    |  RF6   | Rotina para envio de alertas ao WhatsApp do agricultor                        |   -  |
+|   4    |  RF10  | Rotina para envio de alertas ao WhatsApp do agricultor                        |   -  |
 
 #### Requisitos Não Funcionais  
 
@@ -105,7 +105,7 @@ Confira a idealização inicial do projeto:
 
  ## :cloud: Modelo do banco de bados
 
-![diagrama](https://github.com/RatanabaOrg/documentacao/assets/100284976/00fa0657-2b86-406e-877b-2205e782db78)
+![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/b0ee85b0-ce7d-4881-a396-32678df0003a)
 
  <br>
 
@@ -131,11 +131,11 @@ Confira a idealização inicial do projeto:
 
 ## :busts_in_silhouette: Equipe
 
-|           Nome            |                      LinkedIn & GitHub                       |
-| :-----------------------: | :----------------------------------------------------------: |
-| Amanda Vieira de Oliveira | Product Owner |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-vo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/amandavo) |
-| Lucas França Registro | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasFrancaRegistro) |
-| Carlos Eduardo Falandes | Dev Team | [![Lattes Badge](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)](http://lattes.cnpq.br/3579183651868833) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Desduh) |
-| Júlia Sousa Gayotto | Dev Team | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-gayotto/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JuliaGayotto) |
+|           Nome            |    Função     |        Redes profissionais        |
+| :-----------------------: | :-----------: | :-------------------------------: |
+| Amanda Vieira de Oliveira | Product Owner |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-vo/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/amandavo) |
+|   Lucas França Registro   |  Scrum Master | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasFrancaRegistro) |
+|  Carlos Eduardo Falandes  |    Dev Team   | [![Lattes Badge](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)](http://lattes.cnpq.br/3579183651868833) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Desduh) |
+|    Júlia Sousa Gayotto    |    Dev Team   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-gayotto/) <br> [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JuliaGayotto) |
 
 <a href="#menu">Voltar ao topo</a>
