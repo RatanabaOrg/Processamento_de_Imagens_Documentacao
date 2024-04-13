@@ -1,6 +1,6 @@
 <div align="center" id="menu">
 
-![logo](https://github.com/RatanabaOrg/documentacao/assets/100284976/3b3af8d0-a426-4abc-a3a4-d9f7981e3a5a)
+![logo](https://github.com/RatanabaOrg/documentacao/assets/100284976/7b21818b-6819-48de-91a1-c8eda618f640)
 
 <h3> Aplicação mobile para registro e quantificação de pragas em campos agrícolas </h3>
 
@@ -51,7 +51,7 @@ Confira a idealização inicial do projeto:
 
 - Repositório Frontend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/front_end.git)
 
-- Repositório Backend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/front_end.git)
+- Repositório Backend: [https://github.com/RatanabaOrg/back_end_end.git](https://github.com/RatanabaOrg/back_end.git)
 
 <br>
 
@@ -60,8 +60,8 @@ Confira a idealização inicial do projeto:
 ## 🏁 Entregas de Sprints
 | Sprint |        Previsão         |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
-|   01   | 25/03/2024 à 14/04/2024 | Em andamento 🕒 | [Ver](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) 👁️ | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
-|   02   | 15/04/2024 à 05/05/2024 | Não iniciada ❌ | - | - |
+|   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) 👁️ | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
+|   02   | 15/04/2024 à 05/05/2024 | Em andamento 🕒 | - | - |
 |   03   | 06/05/2024 à 26/05/2024 | Não iniciada ❌ | - | - |
 |   04   | 27/05/2024 à 16/06/2024 | Não iniciada ❌ | - | - |
 
@@ -76,10 +76,10 @@ Confira a idealização inicial do projeto:
 | SPRINT | CÓDIGO | DESCRIÇÃO                                                                     | STATUS |
 | :----: | :----: | :---------------------------------------------------------------------------- | :----: |
 |   1    |  RF1   | Interface de cadastro cliente                                                 |   ✅  |
-|   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   🕒  |
-|   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   -  |
-|   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   -  |
-|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   -  |
+|   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   ✅  |
+|   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   🕒  |
+|   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   🕒  |
+|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   🕒  |
 |   3    |  RF6   | Detecção se há pragas nas imagens                                             |   -  |
 |   3    |  RF7   | Contagem de pragas nas imagens                                                |   -  |
 |   3    |  RF8   | Mapeamento da ocorrência pragas                                               |   -  |
@@ -91,6 +91,9 @@ Confira a idealização inicial do projeto:
 | CÓDIGO | DESCRIÇÃO                                                                 |
 | :----: | :------------------------------------------------------------------------ |
 |  RNF1  | Modelo treinado e desenvolvido para o mapeamento das pragas em armadilhas |
+|  RNF2  | Modelagem de banco de dados                                               |
+|  RNF3  | Manual de instalação                                                      |
+|  RNF4  | Manual do usuário                                                         |
 
 #### Tecnologias Desejáveis  
 
@@ -105,7 +108,7 @@ Confira a idealização inicial do projeto:
 
  ## :cloud: Modelo do banco de bados
 
-![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/b0ee85b0-ce7d-4881-a396-32678df0003a)
+![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/25fb8c01-a63d-49bd-8034-060bdb1bc7ca)
 
  <br>
 
@@ -113,17 +116,19 @@ Confira a idealização inicial do projeto:
 
  ## :scroll: Manual de instalação e do usuário
 
-* Depois de instalar as tecnologias necessárias para o projeto (NodeJS e Android Studio) digite no cmd:
+1. Siga os passos do manual de instalação do backend, o link se encontra abaixo:
 
   ```
-  git clone https://github.com/RatanabaOrg/front_end.git
-  npm install
-  npx react-native run-android
+  https://github.com/RatanabaOrg/back_end
   ```
-  
-* Ou baixe o executável em seu celular.
 
-* PFD ou Word aqui explicando como usar o app.
+2. Siga os passos do manual de instalação do frontend, o link se encontra abaixo:
+
+  ```
+  https://github.com/RatanabaOrg/front_end
+  ```
+
+[Manual do usuario.pdf](https://github.com/RatanabaOrg/documentacao/files/14968077/Manual.do.usuario.pdf)
 
  <br>
 
