@@ -38,5 +38,5 @@
 
 </div>
 
-<a href="#menu">Voltar ao menu</a>
+<a href="https://github.com/RatanabaOrg/documentacao/tree/main">Voltar ao menu</a>
 
