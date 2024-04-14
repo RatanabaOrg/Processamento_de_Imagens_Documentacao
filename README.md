@@ -60,7 +60,7 @@ Confira a idealização inicial do projeto:
 ## 🏁 Entregas de Sprints
 | Sprint |        Previsão         |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
-|   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/tree/sprint-1) 👁️ | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
+|   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_1) 👁️ | [1.0.0](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao/releases/tag/1.0.0)|
 |   02   | 15/04/2024 à 05/05/2024 | Em andamento 🕒 | - | - |
 |   03   | 06/05/2024 à 26/05/2024 | Não iniciada ❌ | - | - |
 |   04   | 27/05/2024 à 16/06/2024 | Não iniciada ❌ | - | - |
