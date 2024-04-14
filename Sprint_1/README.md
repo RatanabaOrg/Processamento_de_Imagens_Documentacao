@@ -5,7 +5,6 @@
 <p>
     <a href="#solucao">Solução</a> | 
     <a href="#requisitos">Requisitos entregues</a> | 
-    <a href="#bpmn">BPMN</a> |
     <a href="#burndown">Burndown</a> 
 </p>
 
@@ -15,31 +14,17 @@
 <span id="solucao">
 
 ## :pencil: Soluções
- Nessa sprint focamos em entregar o crud de clientes e títulos, o registro de pagamentos, o relátorio de fluxo de caixa e o login de um administrador para o sistema, visto que assim solucionamos o problema de falta de registro de clientes e títulos, a falta de registro de clientes que ja pagaram e do controle de caixa. 
-
+ Nessa sprint focamos em entregar o cadastro de clientes e infromações espaciais de campo, para que assim os usuarios consigam se cadastrar e cadastrar suas fazendas, talhões e armadilhas.
 <br>
 
 <span id="requisitos">
 
 ## :pushpin: Requisitos Funcionais Entregues 
 
-| SPRINT | CÓDIGO | DESCRIÇÃO                             | STATUS |
-| :----: | :----: | :------------------------------------ | :----: |
-|   1    |  RF1   | Crud de clientes e titulos            |   ✅    |
-|   1    |  RF2   | Registro de pagamentos                |   ✅    |
-|   1    |  RF3   | Relatório de entrada (fluxo de caixa) |   ✅    |
-|   1    |  RF4   | Login de administrador                |   ✅    |
-
-<br>
-
-<span id="bpmn">
-
-<h2>:bookmark_tabs: BPMN </h2>
-<div align="center">
-
-![BPMN](https://user-images.githubusercontent.com/101027809/229370507-eaf252d6-3fbf-49b3-98c5-6818f6492c5b.png)
-
-</div>
+| SPRINT | CÓDIGO | DESCRIÇÃO                             | | STATUS |
+| :----: | :----: | :------------------------------------ |:-----------------------:| :----: |
+|   1    |  RF1   | Interaface de cadastro cliente | Eu como usuario, desejo poder me cadastrar dentro do sistema, editar minhas informações, sair da minha conta e utilizar o sistema.|   ✅    |
+|   1    |  RF2   | Interface para cadastro de infromações espaciais e alfanumericas de campo | Eu como usuario, desejo poder cadastrar campos das minhas fazendas, de talhões e armadilhas usando informações espaciais e alfanumericas. |   ✅    |
 
 <br>
 
