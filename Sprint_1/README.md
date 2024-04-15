@@ -4,7 +4,7 @@
 
 <p>
     <a href="#solucao">Solução</a> | 
-    <a href="#requisitos">Requisitos entregues</a> | 
+    <a href="#requisitos">Requisitos</a> | 
     <a href="#burndown">Burndown</a> 
 </p>
 
@@ -19,9 +19,18 @@
 
 <span id="requisitos">
 
-## :pushpin: Requisitos Funcionais Entregues 
+## :pushpin: Requisitos
+
+<br>
 
 ![image](https://github.com/RatanabaOrg/documentacao/assets/101057737/17b698e5-90ea-4cec-aa21-56f48d3714f0)
+
+ #### Épicos (Requisitos Funcionais) 
+
+| SPRINT | CÓDIGO | DESCRIÇÃO                                                                     | STATUS |
+| :----: | :----: | :---------------------------------------------------------------------------- | :----: |
+|   1    |  RF1   | Interface de cadastro cliente                                                 |   ✅  |
+|   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   ✅  |
 
 <br>
 
