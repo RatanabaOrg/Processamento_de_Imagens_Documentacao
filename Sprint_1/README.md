@@ -21,10 +21,7 @@
 
 ## :pushpin: Requisitos Funcionais Entregues 
 
-| SPRINT | CÓDIGO | DESCRIÇÃO                             | | STATUS |
-| :----: | :----: | :------------------------------------ |:-----------------------:| :----: |
-|   1    |  RF1   | Interaface de cadastro cliente | Eu como usuario, desejo poder me cadastrar dentro do sistema, editar minhas informações, sair da minha conta e utilizar o sistema.|   ✅    |
-|   1    |  RF2   | Interface para cadastro de infromações espaciais e alfanumericas de campo | Eu como usuario, desejo poder cadastrar campos das minhas fazendas, de talhões e armadilhas usando informações espaciais e alfanumericas. |   ✅    |
+![image](https://github.com/RatanabaOrg/documentacao/assets/101057737/17b698e5-90ea-4cec-aa21-56f48d3714f0)
 
 <br>
 
@@ -33,7 +30,7 @@
 <H2> :chart_with_downwards_trend: Burndown </h2>
 <div align="center">
 
-![burndown](https://user-images.githubusercontent.com/101027809/229370915-3ddf21ca-04b2-4423-972f-0616f01b8f5a.png)
+![burndown_1](https://github.com/RatanabaOrg/documentacao/assets/101057737/548d4b1a-74dd-4e1a-89a0-5ef13690acdb)
 
 
 </div>
