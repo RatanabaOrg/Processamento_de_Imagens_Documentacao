@@ -14,7 +14,7 @@
 <span id="solucao">
 
 ## :pencil: Soluções
- Nessa sprint focamos em entregar o cadastro de clientes e infromações espaciais de campo, para que assim os usuarios consigam se cadastrar e cadastrar suas fazendas, talhões e armadilhas.
+ Nessa sprint focamos em entregar o cadastro de clientes e informações espaciais de campo, para que assim os usuarios consigam se cadastrar e cadastrar suas fazendas, talhões e armadilhas.
 <br>
 
 <span id="requisitos">
