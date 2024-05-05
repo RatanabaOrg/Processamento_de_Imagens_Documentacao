@@ -61,7 +61,7 @@ Confira a idealização inicial do projeto:
 | Sprint |        Previsão         |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
 |   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v1.0.0)|
-|   02   | 15/04/2024 à 05/05/2024 | Em andamento 🕒 | - | - |
+|   02   | 15/04/2024 à 05/05/2024 | Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_2) 👁️ | - |
 |   03   | 06/05/2024 à 26/05/2024 | Não iniciada ❌ | - | - |
 |   04   | 27/05/2024 à 16/06/2024 | Não iniciada ❌ | - | - |
 
@@ -77,9 +77,9 @@ Confira a idealização inicial do projeto:
 | :----: | :----: | :---------------------------------------------------------------------------- | :----: |
 |   1    |  RF1   | Interface de cadastro cliente                                                 |   ✅  |
 |   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   ✅  |
-|   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   🕒  |
-|   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   🕒  |
-|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   🕒  |
+|   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   ✅  |
+|   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   ✅  |
+|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   -   |
 |   3    |  RF6   | Detecção se há pragas nas imagens                                             |   -  |
 |   3    |  RF7   | Contagem de pragas nas imagens                                                |   -  |
 |   3    |  RF8   | Mapeamento da ocorrência pragas                                               |   -  |
