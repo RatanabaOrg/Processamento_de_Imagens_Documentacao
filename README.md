@@ -61,8 +61,8 @@ Confira a idealização inicial do projeto:
 | Sprint |        Previsão         |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
 |   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v1.0.0)|
-|   02   | 15/04/2024 à 05/05/2024 | Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_2) 👁️ | [2.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v2.0.0) |
-|   03   | 06/05/2024 à 26/05/2024 | Não iniciada ❌ | - | - |
+|   02   | 15/04/2024 à 05/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_2) 👁️ | [2.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v2.0.0) |
+|   03   | 06/05/2024 à 26/05/2024 | Em andamento 🕒 | - | - |
 |   04   | 27/05/2024 à 16/06/2024 | Não iniciada ❌ | - | - |
 
 <br>
@@ -79,11 +79,11 @@ Confira a idealização inicial do projeto:
 |   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   ✅  |
 |   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   ✅  |
 |   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   ✅  |
-|   2    |  RF5   | Sincronização dos dados do app com banco de dados                             |   -   |
-|   3    |  RF6   | Detecção se há pragas nas imagens                                             |   -  |
-|   3    |  RF7   | Contagem de pragas nas imagens                                                |   -  |
-|   3    |  RF8   | Mapeamento da ocorrência pragas                                               |   -  |
-|   4    |  RF9   | Dashboard de indicadores de registro de pragas em armadilhas de campo         |   -  |
+|   3    |  RF5   | Detecção se há pragas nas imagens                                             |   🕒  |
+|   3    |  RF6   | Contagem de pragas nas imagens                                                |   🕒  |
+|   3    |  RF7   | Mapeamento da ocorrência pragas                                               |   🕒  |
+|   4    |  RF8   | Dashboard de indicadores de registro de pragas em armadilhas de campo         |   -  |
+|   4    |  RF9   | Sincronização dos dados do app com banco de dados                             |   -  |
 |   4    |  RF10  | Rotina para envio de alertas ao WhatsApp do agricultor                        |   -  |
 
 #### Requisitos Não Funcionais  
@@ -108,7 +108,7 @@ Confira a idealização inicial do projeto:
 
  ## :cloud: Modelo do banco de bados
 
-![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/25fb8c01-a63d-49bd-8034-060bdb1bc7ca)
+![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/a447f996-38d7-4824-b06c-c9bea5189784)
 
  <br>
 
@@ -128,7 +128,7 @@ Confira a idealização inicial do projeto:
   https://github.com/RatanabaOrg/front_end
   ```
 
-[Manual do usuario.pdf](https://github.com/RatanabaOrg/documentacao/files/14968077/Manual.do.usuario.pdf)
+[Manual do usuario.pdf](https://github.com/RatanabaOrg/documentacao/files/15214758/Manual.do.usuario.pdf)
 
  <br>
 
