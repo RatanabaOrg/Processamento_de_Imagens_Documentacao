@@ -79,12 +79,11 @@ Confira a idealização inicial do projeto:
 |   1    |  RF2   | Interface para cadastro de informações espaciais e alfanuméricas de campo     |   ✅  |
 |   2    |  RF3   | Aplicação para localização de informações espaciais, em campo                 |   ✅  |
 |   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   ✅  |
-|   3    |  RF5   | Detecção se há pragas nas imagens                                             |   🕒  |
-|   3    |  RF6   | Contagem de pragas nas imagens                                                |   🕒  |
-|   3    |  RF7   | Mapeamento da ocorrência pragas                                               |   🕒  |
-|   4    |  RF8   | Dashboard de indicadores de registro de pragas em armadilhas de campo         |   -  |
-|   4    |  RF9   | Sincronização dos dados do app com banco de dados                             |   -  |
-|   4    |  RF10  | Rotina para envio de alertas ao WhatsApp do agricultor                        |   -  |
+|   3    |  RF5   | Mapeamento da ocorrência pragas                                               |   🕒  |
+|   3    |  RF6   | Registro de detecção de pragas em armadilhas de campo                         |   🕒  |
+|   4    |  RF7   | Indicadores de registro de pragas ao longo do tempo                           |   -  |
+|   4    |  RF8   | Sincronização dos dados do app com banco de dados                             |   -  |
+|   4    |  RF9   | Rotina para envio de alertas ao WhatsApp do agricultor                        |   -  |
 
 #### Requisitos Não Funcionais  
 
@@ -94,13 +93,13 @@ Confira a idealização inicial do projeto:
 |  RNF2  | Modelagem de banco de dados                                               |
 |  RNF3  | Manual de instalação                                                      |
 |  RNF4  | Manual do usuário                                                         |
+|  RNF5  | Documentação API                                                          |
 
 #### Tecnologias Desejáveis  
 
 | CÓDIGO | DESCRIÇÃO             |
 | :----: | :-------------------- |
-|  TD1   | Hospedagem em nuvem   |
-|  TD2   | Android SKD           |
+|  TD1   | Android SKD           |
 
 <br>
 
