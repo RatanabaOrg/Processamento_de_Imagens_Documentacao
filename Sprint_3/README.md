@@ -23,7 +23,8 @@
 
 <br>
 
-![WhatsApp Image 2024-05-05 at 17 46 04](https://github.com/RatanabaOrg/documentacao/assets/101057737/aa10b49a-d412-4c6c-a5b4-c05d3ca64ee3)
+
+![image](https://github.com/RatanabaOrg/documentacao/assets/101057737/ccb48e10-d85a-4ca3-859f-ceef794bd7a9)
 
 
  #### Épicos (Requisitos Funcionais) 
