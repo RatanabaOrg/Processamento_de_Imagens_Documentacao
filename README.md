@@ -111,6 +111,11 @@ Confira a idealização inicial do projeto:
 
  <br>
 
+## Modelo de treino da IA
+   ![confusion_matrix](https://github.com/RatanabaOrg/documentacao/assets/101057737/b2d3ddb4-c82b-4a98-9988-70eab8c31079)
+![results](https://github.com/RatanabaOrg/documentacao/assets/101057737/f4e11118-adf2-4270-9ba0-f80708ac90c9)
+
+<br>
  <span id="manuais">
 
  ## :scroll: Manual de instalação e do usuário
