@@ -108,7 +108,7 @@ Confira a idealização inicial do projeto:
 
  ## :cloud: Modelo do banco de bados
 
-![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/73fd0a6d-eaeb-489b-9218-9cf2dd0e54df)
+![diagramaVisiona](https://github.com/RatanabaOrg/documentacao/assets/100284976/e5d6ed9a-a477-4afc-b364-4705e8c2d792)
 
  <br>
 
@@ -133,7 +133,7 @@ Confira a idealização inicial do projeto:
   https://github.com/RatanabaOrg/front_end
   ```
 
-[Manual do usuario.pdf](https://github.com/RatanabaOrg/documentacao/files/15445847/Manual.do.usuario.pdf)
+[Manual do usuario.pdf](https://github.com/user-attachments/files/15860136/Manual.do.usuario.pdf)
 
  <br>
 
