@@ -9,6 +9,7 @@
     <a href="#repositorios">Repositórios</a> | 
     <a href="#entrega">Entregas de Sprints</a> |
     <a href="#backlog">Backlog</a> | 
+    <a href="#modelos">Modelos</a> | 
     <a href="#manuais">Manuais</a> | 
     <a href="#modelo">Diagrama</a> | 
     <a href="#equipe">Equipe</a>
@@ -63,7 +64,7 @@ Confira a idealização inicial do projeto:
 |   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v1.0.0)|
 |   02   | 15/04/2024 à 05/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_2) 👁️ | [2.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v2.0.0) |
 |   03   | 06/05/2024 à 26/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_3) 👁️ | [3.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v3.0.0) |
-|   04   | 27/05/2024 à 16/06/2024 | Em andamento 🕒 | - | - |
+|   04   | 27/05/2024 à 16/06/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_4) 👁️ | [4.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v4.0.0) |
 
 <br>
 
@@ -81,9 +82,9 @@ Confira a idealização inicial do projeto:
 |   2    |  RF4   | Aplicação para obtenção de fotos pela câmera                                  |   ✅  |
 |   3    |  RF5   | Mapeamento da ocorrência pragas                                               |   ✅  |
 |   3    |  RF6   | Registro de detecção de pragas em armadilhas de campo                         |   ✅  |
-|   4    |  RF7   | Indicadores de registro de pragas ao longo do tempo                           |   🕒  |
-|   4    |  RF8   | Sincronização dos dados do app com banco de dados                             |   🕒  |
-|   4    |  RF9   | Rotina para envio de alertas ao WhatsApp do agricultor                        |   🕒  |
+|   4    |  RF7   | Indicadores de registro de pragas ao longo do tempo                           |   ✅  |
+|   4    |  RF8   | Sincronização dos dados do app com banco de dados                             |   ✅  |
+|   4    |  RF9   | Rotina para envio de alertas ao WhatsApp do agricultor                        |   ✅  |
 
 #### Requisitos Não Funcionais  
 
@@ -103,7 +104,7 @@ Confira a idealização inicial do projeto:
 
 <br>
 
-<span id="modelo">
+<span id="modelos">
 
  ## :cloud: Modelo do banco de bados
 
@@ -112,7 +113,7 @@ Confira a idealização inicial do projeto:
  <br>
 
 ## Modelo de treino da IA
-   ![confusion_matrix](https://github.com/RatanabaOrg/documentacao/assets/101057737/b2d3ddb4-c82b-4a98-9988-70eab8c31079)
+![confusion_matrix](https://github.com/RatanabaOrg/documentacao/assets/101057737/b2d3ddb4-c82b-4a98-9988-70eab8c31079)
 ![results](https://github.com/RatanabaOrg/documentacao/assets/101057737/f4e11118-adf2-4270-9ba0-f80708ac90c9)
 
 <br>
