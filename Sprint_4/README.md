@@ -9,23 +9,23 @@
 </p>
 
 </div>
+
 <br>
 
 <span id="solucao">
 
 ## :pencil: Soluções
   Entregamos nesta última sprint, o indicador de pragas feito através de gráfico, a sincronização do off-line para o banco ao ter internet e envio de alerta de pragas para o WhatsApp do dono da fazenda.
+
 <br>
 
 <span id="requisitos">
 
 ## :pushpin: Requisitos
 
+![requisitos](https://github.com/RatanabaOrg/documentacao/assets/100284976/e6da4a61-4b80-444f-bdac-8b277de65b18)
+
 <br>
-
-
-![image](https://github.com/RatanabaOrg/documentacao/assets/101057737/ccb48e10-d85a-4ca3-859f-ceef794bd7a9)
-
 
  #### Épicos (Requisitos Funcionais) 
 
@@ -39,15 +39,11 @@
 
 <span id="burndown">
 
-<H2> :chart_with_downwards_trend: Burndown </h2>
-<div align="center">
+## :chart_with_downwards_trend: Burndown
 
+![burndown](https://github.com/RatanabaOrg/documentacao/assets/100284976/a7e8a30c-40ae-48cd-919a-362b6e0f8b8f)
 
-![Screenshot_1](https://github.com/RatanabaOrg/documentacao/assets/101057737/8500a793-076c-43d9-b6cf-89264d476cde)
-
-
-
-</div>
+<br>
 
 <a href="https://github.com/RatanabaOrg/documentacao/tree/main">Voltar ao menu</a>
 
