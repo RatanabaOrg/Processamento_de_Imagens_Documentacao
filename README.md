@@ -52,7 +52,7 @@ Confira a idealização inicial do projeto:
 
 - Repositório Frontend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/front_end.git)
 
-- Repositório Backend: [https://github.com/RatanabaOrg/back_end_end.git](https://github.com/RatanabaOrg/back_end.git)
+- Repositório Backend: [https://github.com/RatanabaOrg/back_end.git](https://github.com/RatanabaOrg/back_end.git)
 
 <br>
 
@@ -61,10 +61,10 @@ Confira a idealização inicial do projeto:
 ## 🏁 Entregas de Sprints
 | Sprint |        Previsão         |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
-|   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v1.0.0)|
-|   02   | 15/04/2024 à 05/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_2) 👁️ | [2.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v2.0.0) |
-|   03   | 06/05/2024 à 26/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_3) 👁️ | [3.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v3.0.0) |
-|   04   | 27/05/2024 à 16/06/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/Sprint_4) 👁️ | [4.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v4.0.0) |
+|   01   | 25/03/2024 à 14/04/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/doc/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v1.0.0)|
+|   02   | 15/04/2024 à 05/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/doc/Sprint_2) 👁️ | [2.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v2.0.0) |
+|   03   | 06/05/2024 à 26/05/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/doc/Sprint_3) 👁️ | [3.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v3.0.0) |
+|   04   | 27/05/2024 à 16/06/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/documentacao/tree/main/doc/Sprint_4) 👁️ | [4.0.0](https://github.com/RatanabaOrg/documentacao/releases/tag/v4.0.0) |
 
 <br>
 
