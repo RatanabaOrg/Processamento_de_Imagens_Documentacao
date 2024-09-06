@@ -50,9 +50,9 @@ Confira a idealização inicial do projeto:
 
 <h2> 🗂 Repositórios </h2>
 
-- Repositório Frontend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/front_end.git)
+- Repositório Frontend: [https://github.com/RatanabaOrg/front_end.git](https://github.com/RatanabaOrg/Processamento_de_Imagens_Back_End.git)
 
-- Repositório Backend: [https://github.com/RatanabaOrg/back_end.git](https://github.com/RatanabaOrg/back_end.git)
+- Repositório Backend: [https://github.com/RatanabaOrg/back_end.git](https://github.com/RatanabaOrg/Processamento_de_Imagens_Back_End.git)
 
 <br>
 
